@@ -8,8 +8,11 @@ import com.crm.ObjectRepository.Home_Page;
 import com.crm.ObjectRepository.Validation_And_Verification;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
+
 public class Create_OrganisationTest  extends BaseClass{
+	
 	@Test(groups="regressionTest")
+	
 	public void create_Organisation() throws Throwable {
 		/*String key ="webdriver.chrome.driver";
 		String value="./chromedriver.exe";
@@ -75,13 +78,13 @@ public class Create_OrganisationTest  extends BaseClass{
 		valid.OrganizationValidation(driver, data);
 		
 		//validation part
-		/*String name = driver.findElement(By.xpath("//span[@class='dvHeaderText']")).getText();
+		String name = driver.findElement(By.xpath("//span[@class='dvHeaderText']")).getText();
 		if(name.contains(data)) {
 			System.out.println("Create_Organisation is "+"pass");
 		}
 		else {
 			System.out.println("Create_Organisation is"+"fail");
-		}	*/
+		}	
 		/*WebElement move = driver.findElement(By.xpath("//a[text()='Sign Out']"));
 		Actions act =new Actions(driver);
 		act.moveToElement(move).perform();
