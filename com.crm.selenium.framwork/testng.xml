@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Practice.Sample1"/>
+      <class name="Practice.HardAssert"/>
+      <class name="com.campaign.Campaign_With_ProductTest"/>
+      <class name="com.campaign.Create_CampaignTest"/>
+      <class name="com.crm.Organigation.Create_OrganisationTest"/>
+      <class name="com.crm.product.Create_ProductionTest"/>
+      <class name="com.crm.product.Delete_ProductTest"/>
+      <class name="com.crm.product.Create_ContactsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

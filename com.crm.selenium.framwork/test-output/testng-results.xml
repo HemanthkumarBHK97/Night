@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-16T21:03:23 IST" name="Default suite" finished-at="2022-10-16T21:03:58 IST" duration-ms="35743">
+    <groups>
+      <group name="regressionTest">
+        <method signature="Create_ContactsTest.create_ContactsTest()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" name="create_ContactsTest" class="com.crm.product.Create_ContactsTest"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test started-at="2022-10-16T21:03:23 IST" name="Default test" finished-at="2022-10-16T21:03:58 IST" duration-ms="35743">
+      <class name="com.crm.product.Create_ContactsTest">
+        <test-method is-config="true" signature="bS()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:23 IST" name="bS" finished-at="2022-10-16T21:03:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bS -->
+        <test-method is-config="true" signature="bF()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:23 IST" name="bF" finished-at="2022-10-16T21:03:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bF -->
+        <test-method is-config="true" signature="bC()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:23 IST" name="bC" finished-at="2022-10-16T21:03:24 IST" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bC -->
+        <test-method is-config="true" signature="bM()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:24 IST" name="bM" finished-at="2022-10-16T21:03:28 IST" duration-ms="3231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bM -->
+        <test-method signature="create_ContactsTest()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:28 IST" name="create_ContactsTest" finished-at="2022-10-16T21:03:58 IST" duration-ms="30858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_ContactsTest -->
+        <test-method is-config="true" signature="aM()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:58 IST" name="aM" finished-at="2022-10-16T21:03:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aM -->
+        <test-method is-config="true" signature="aC()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:58 IST" name="aC" finished-at="2022-10-16T21:03:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aC -->
+        <test-method is-config="true" signature="aT()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:58 IST" name="aT" finished-at="2022-10-16T21:03:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aT -->
+        <test-method is-config="true" signature="aS()[pri:0, instance:com.crm.product.Create_ContactsTest@35aea049]" started-at="2022-10-16T21:03:59 IST" name="aS" finished-at="2022-10-16T21:03:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aS -->
+      </class> <!-- com.crm.product.Create_ContactsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
